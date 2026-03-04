@@ -1,7 +1,5 @@
 # ActiveDirectory-GroupManagement
 
-Watch me build this lab here! *(Add Loom link)*
-
 Create and manage Active Directory groups for clean access control and organized user management.
 
 ---
